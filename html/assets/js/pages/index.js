@@ -86,11 +86,6 @@ function MorrisArea() {
                 APARTMENT: 125,
                 OFFICE: 80,
                 SHOP: 29
-            }, {
-                period: '2017',
-                APARTMENT: 40,
-                OFFICE: 10,
-                SHOP: 26
             }
 
         ],
@@ -133,11 +128,6 @@ function MorrisArea() {
                 period: '2016',
                 SiteA: 175,
                 SiteB: 149,
-    
-            }, {
-                period: '2017',
-                SiteA: 126,
-                SiteB: 98,
     
             }
         ],
